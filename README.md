@@ -2,7 +2,9 @@
 
 Interactive enterprise transformation system for introducing a practical operating model with ~10 people, proving it works, and scaling to 600–700 colleagues.
 
-**Live repo:** https://github.com/sanjaypst1/operating-model
+**Live repo:** https://github.com/sanjaypst1/operating-model  
+
+**Published site (GitHub Pages):** https://sanjaypst1.github.io/operating-model/
 
 ## What this is
 
